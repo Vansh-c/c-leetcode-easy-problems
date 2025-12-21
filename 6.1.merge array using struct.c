@@ -1,0 +1,1 @@
+// here we will use struct to merge two arrays 
